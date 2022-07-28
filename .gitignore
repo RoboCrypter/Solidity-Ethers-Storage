@@ -1,0 +1,5 @@
+.env
+node_modules
+.encryptedKey.json
+Storage_sol_Storage.abi
+Storage_sol_Storage.bin
